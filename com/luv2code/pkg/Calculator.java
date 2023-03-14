@@ -8,4 +8,8 @@ public class Calculator{
 	  System.out.println("subtraction of 2 numbers");
     return a - b;
   }
+	
+ public static int multiply(int a, int b){
+	 return a * b;
+ }
 }
